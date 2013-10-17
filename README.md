@@ -1,3 +1,4 @@
+
 ## Mentorbuddies
 
 Mentorbuddies enables self-learners to seek human-level career advice and guidance from working professionals who are where they aspire to be.
@@ -7,3 +8,8 @@ Education and learning is very much about emotional strength and cultivation as 
 
 - demo: http://mentor-buddies.ruhoh.com/
 - 2-min concept walkthrough: http://youtu.be/b_ykHSpIFs8
+
+
+## Contributors
+
+@plusjade =)
